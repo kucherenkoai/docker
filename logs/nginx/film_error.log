@@ -1,0 +1,1 @@
+2018/09/10 10:02:43 [error] 7#7: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Trait 'App\Trades\FormatsResponse' not found in /var/www/film/app/Http/Controllers/FilmController.php on line 10" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.6:9000", host: "127.0.0.1:81"
